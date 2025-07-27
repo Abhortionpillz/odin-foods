@@ -1,0 +1,39 @@
+/* style.css */
+body {
+    background-color: rgb(221, 157, 73);
+    border-radius: 15px;
+    border-width: 10px;
+    border-color: black;
+    font-size: large;
+      background-color: aquamarine;
+ text-align: center;
+}
+.main { 
+  
+}
+.header {
+    background-color: aquamarine;
+    height: 40px;
+    text-align: center;
+    justify-items: center;
+    border-radius: 50px;
+    
+}
+a {
+    font-weight: bold;
+    font-family: 'Courier New', Courier,;
+    
+
+}
+img {
+    border-radius: 30px;
+    border-color: black;
+    border-width: 10px;
+    align-items: center;
+    border-image: space;
+}
+html {
+    nav body body 
+    nav body body 
+    footer footer 
+}
